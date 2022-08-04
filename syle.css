@@ -7,11 +7,11 @@
 .hero{
     width: 100;
     height: 100vh;
-    background-image: linear-gradient(rgba(10, 10, 10, 0),rgba(3, 3, 3, 0.555)); ur(background);
+    background-image: linear-gradient(rgba(10, 10, 10, 0),rgba(3, 3, 3, 0.555)), url(images.css/backround.jpg);
     background-size: cover;
     background-position: center;
     padding: 10px 10%;
-    color: rgb(0, 0, 221);
+    color: rgb(240, 244, 246);
 }
 .hero h3{
     margin-top: 15%;
